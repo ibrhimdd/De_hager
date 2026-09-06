@@ -1,0 +1,6 @@
+{
+  "name": "CyberSec Blockchain EduLab",
+  "description": "منصة تعليمية تفاعلية لتطبيقات رسالة علمية في الأمن السيبراني والبلوكشين للمجموعتين التجريبيتين ولوحة تحكم الباحث وأدوات القياس",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
